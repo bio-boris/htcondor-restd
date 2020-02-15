@@ -1,5 +1,5 @@
 RELEASE NOTES
-
+TEST
 * __version__ = "0.191001" + 1
 * Added authentication to check for the headers 'Authorization' or 'Authentication'
 * Added authentication to check for cookies
